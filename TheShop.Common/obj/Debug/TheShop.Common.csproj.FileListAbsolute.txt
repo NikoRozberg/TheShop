@@ -1,0 +1,8 @@
+D:\TheShop\TheShop.Common\bin\Debug\TheShop.Common.dll
+D:\TheShop\TheShop.Common\bin\Debug\TheShop.Common.pdb
+D:\TheShop\TheShop.Common\obj\Debug\TheShop.Common.csprojAssemblyReference.cache
+D:\TheShop\TheShop.Common\obj\Debug\TheShop.Common.Resources.resources
+D:\TheShop\TheShop.Common\obj\Debug\TheShop.Common.csproj.GenerateResource.cache
+D:\TheShop\TheShop.Common\obj\Debug\TheShop.Common.csproj.CoreCompileInputs.cache
+D:\TheShop\TheShop.Common\obj\Debug\TheShop.Common.dll
+D:\TheShop\TheShop.Common\obj\Debug\TheShop.Common.pdb

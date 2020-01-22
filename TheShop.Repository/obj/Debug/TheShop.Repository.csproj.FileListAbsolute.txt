@@ -1,0 +1,9 @@
+D:\TheShop\TheShop.Repository\bin\Debug\TheShop.Repository.dll
+D:\TheShop\TheShop.Repository\bin\Debug\TheShop.Repository.pdb
+D:\TheShop\TheShop.Repository\bin\Debug\TheShop.Model.dll
+D:\TheShop\TheShop.Repository\bin\Debug\TheShop.Model.pdb
+D:\TheShop\TheShop.Repository\obj\Debug\TheShop.Repository.csprojAssemblyReference.cache
+D:\TheShop\TheShop.Repository\obj\Debug\TheShop.Repository.csproj.CoreCompileInputs.cache
+D:\TheShop\TheShop.Repository\obj\Debug\TheShop.Repository.csproj.CopyComplete
+D:\TheShop\TheShop.Repository\obj\Debug\TheShop.Repository.dll
+D:\TheShop\TheShop.Repository\obj\Debug\TheShop.Repository.pdb
